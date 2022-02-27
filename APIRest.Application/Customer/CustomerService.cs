@@ -16,6 +16,8 @@ namespace APIRest.Application.Customer
         {
 			var customers = DataSeed.GenerateCustomerDatas();
 			var customer = customers.FirstOrDefault(x => x.Id == id);
+			if (customer == null)
+				return null;
 
 			return PrepareCustomerEntityToDto(customer);
         }

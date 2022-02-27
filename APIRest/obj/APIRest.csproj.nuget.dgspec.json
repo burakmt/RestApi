@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/portalgrup/Projects/APIRest/APIRest/APIRest.csproj": {}
+    "/Users/portalgrup/Desktop/RestApi/APIRest/APIRest.csproj": {}
   },
   "projects": {
-    "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj": {
+    "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj",
+        "projectUniqueName": "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj",
         "projectName": "APIRest.Application.Constants",
-        "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj",
+        "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj",
         "packagesPath": "/Users/portalgrup/.nuget/packages/",
-        "outputPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/obj/",
+        "outputPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/portalgrup/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj": {
-                "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj"
+              "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj": {
+                "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "/Users/portalgrup/Projects/APIRest/APIRest.Application/APIRest.Application.csproj": {
+    "/Users/portalgrup/Desktop/RestApi/APIRest.Application/APIRest.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/portalgrup/Projects/APIRest/APIRest.Application/APIRest.Application.csproj",
+        "projectUniqueName": "/Users/portalgrup/Desktop/RestApi/APIRest.Application/APIRest.Application.csproj",
         "projectName": "APIRest.Application",
-        "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application/APIRest.Application.csproj",
+        "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application/APIRest.Application.csproj",
         "packagesPath": "/Users/portalgrup/.nuget/packages/",
-        "outputPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/",
+        "outputPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/portalgrup/.nuget/NuGet/NuGet.Config"
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj": {
-                "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj"
+              "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj": {
+                "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj"
               }
             }
           }
@@ -116,14 +116,14 @@
         }
       }
     },
-    "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj": {
+    "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj",
+        "projectUniqueName": "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj",
         "projectName": "APIRest.Domain",
-        "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj",
+        "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj",
         "packagesPath": "/Users/portalgrup/.nuget/packages/",
-        "outputPath": "/Users/portalgrup/Projects/APIRest/APIRest.Domain/obj/",
+        "outputPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/portalgrup/.nuget/NuGet/NuGet.Config"
@@ -168,14 +168,14 @@
         }
       }
     },
-    "/Users/portalgrup/Projects/APIRest/APIRest/APIRest.csproj": {
+    "/Users/portalgrup/Desktop/RestApi/APIRest/APIRest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/portalgrup/Projects/APIRest/APIRest/APIRest.csproj",
+        "projectUniqueName": "/Users/portalgrup/Desktop/RestApi/APIRest/APIRest.csproj",
         "projectName": "APIRest",
-        "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest/APIRest.csproj",
+        "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest/APIRest.csproj",
         "packagesPath": "/Users/portalgrup/.nuget/packages/",
-        "outputPath": "/Users/portalgrup/Projects/APIRest/APIRest/obj/",
+        "outputPath": "/Users/portalgrup/Desktop/RestApi/APIRest/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/portalgrup/.nuget/NuGet/NuGet.Config"
@@ -190,14 +190,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj": {
-                "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj"
+              "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj": {
+                "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj"
               },
-              "/Users/portalgrup/Projects/APIRest/APIRest.Application/APIRest.Application.csproj": {
-                "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application/APIRest.Application.csproj"
+              "/Users/portalgrup/Desktop/RestApi/APIRest.Application/APIRest.Application.csproj": {
+                "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application/APIRest.Application.csproj"
               },
-              "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj": {
-                "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj"
+              "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj": {
+                "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj"
               }
             }
           }

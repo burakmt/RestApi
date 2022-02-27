@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0+/r5IoOpZNRqd/NROSnIOaxBeDoG10WaaT1sCpbaYVQCO/dTkaXv3TsJvjAIOn8jPjfS2raHWbw4DIOLadCVA==",
+  "dgSpecHash": "LSi5FKkzsciL3Tp7sNVkoQJM7On9xHzWy8wUFZ1q/QElCm5n+LErv8CFmEMb4TH0ccWVih/uLGf42zH086P7pA==",
   "success": true,
-  "projectFilePath": "/Users/portalgrup/Projects/APIRest/APIRest/APIRest.csproj",
+  "projectFilePath": "/Users/portalgrup/Desktop/RestApi/APIRest/APIRest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

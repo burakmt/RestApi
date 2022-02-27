@@ -70,11 +70,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/portalgrup/Projects/APIRest/APIRest/APIRest.csproj",
+      "projectUniqueName": "/Users/portalgrup/Desktop/RestApi/APIRest/APIRest.csproj",
       "projectName": "APIRest",
-      "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest/APIRest.csproj",
+      "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest/APIRest.csproj",
       "packagesPath": "/Users/portalgrup/.nuget/packages/",
-      "outputPath": "/Users/portalgrup/Projects/APIRest/APIRest/obj/",
+      "outputPath": "/Users/portalgrup/Desktop/RestApi/APIRest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/portalgrup/.nuget/NuGet/NuGet.Config"
@@ -89,14 +89,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj": {
-              "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj"
+            "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj": {
+              "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj"
             },
-            "/Users/portalgrup/Projects/APIRest/APIRest.Application/APIRest.Application.csproj": {
-              "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application/APIRest.Application.csproj"
+            "/Users/portalgrup/Desktop/RestApi/APIRest.Application/APIRest.Application.csproj": {
+              "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application/APIRest.Application.csproj"
             },
-            "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj": {
-              "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj"
+            "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj": {
+              "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj"
             }
           }
         }

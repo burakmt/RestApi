@@ -27,37 +27,55 @@ namespace APIRest.Controllers
         [Route("get-invoice")]
         public BaseResponseModel<decimal> GetInvoice(RequestModel requestModel)
         {
-            InvoiceCreateUpdateDto model = new InvoiceCreateUpdateDto()
+            if (requestModel == null)
+                return new BaseResponseModel<decimal>() { Success = false, Data = 0, Date = DateTime.Now };
+            try
             {
-                TotalAmount = requestModel.TotalAmount,
-                ShoppingType = requestModel.ShoppingType,
-                CustomerId = requestModel.CustomerId
-            };
+                InvoiceCreateUpdateDto model = new InvoiceCreateUpdateDto()
+                {
+                    TotalAmount = requestModel.TotalAmount,
+                    ShoppingType = requestModel.ShoppingType,
+                    CustomerId = requestModel.CustomerId
+                };
 
-            var calc = _invoiceService.CreateInvoice(model);
-            BaseResponseModel<decimal> response = new BaseResponseModel<decimal>() { Success = true, Data = calc, Date = DateTime.Now };
-            return response;
+                var calc = _invoiceService.CreateInvoice(model);
+                BaseResponseModel<decimal> response = new BaseResponseModel<decimal>() { Success = true, Data = calc, Date = DateTime.Now };
+                return response;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
 
         [HttpGet]
         [Route("test/{id}")]
         public BaseResponseModel<decimal> GetTestInvoice(int id = 1)
         {
-            RequestModel requestModel = new RequestModel() {
-                CustomerId = id,
-                ShoppingType = Domain.Invoice.ShoppingType.Product,
-                TotalAmount = 1000
-            };
+            try
+            {
+                RequestModel requestModel = new RequestModel()
+                {
+                    CustomerId = id,
+                    ShoppingType = Domain.Invoice.ShoppingType.Product,
+                    TotalAmount = 1000
+                };
 
-            InvoiceCreateUpdateDto model = new InvoiceCreateUpdateDto() {
-                TotalAmount = requestModel.TotalAmount,
-                ShoppingType = requestModel.ShoppingType,
-                CustomerId = requestModel.CustomerId
-            };
+                InvoiceCreateUpdateDto model = new InvoiceCreateUpdateDto()
+                {
+                    TotalAmount = requestModel.TotalAmount,
+                    ShoppingType = requestModel.ShoppingType,
+                    CustomerId = requestModel.CustomerId
+                };
 
-            var calc = _invoiceService.CreateInvoice(model);
-            BaseResponseModel<decimal> response = new BaseResponseModel<decimal>() { Success = true, Data = calc, Date = DateTime.Now};
-            return response;
+                var calc = _invoiceService.CreateInvoice(model);
+                BaseResponseModel<decimal> response = new BaseResponseModel<decimal>() { Success = true, Data = calc, Date = DateTime.Now };
+                return response;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
         }
     }
 }

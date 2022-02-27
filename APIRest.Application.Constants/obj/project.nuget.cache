@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cdf9bNjirt8ZTwOAn3X3sCit5y/Vpn1+M7R49UGaOh8yUvOt7eQ0+ODrJiv/JuqD2Xn1pLLO3qgJ3Kc2rUJqbg==",
+  "dgSpecHash": "6wKDj86tI0Tb9k49ZPAfBUwGVckQ+iUnFmr6bgXlfMjAoo2dDqAWEi1D8/auowg9QxfretIBW57Cur8R1KSTag==",
   "success": true,
-  "projectFilePath": "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj",
+  "projectFilePath": "/Users/portalgrup/Desktop/RestApi/APIRest.Application.Constants/APIRest.Application.Constants.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

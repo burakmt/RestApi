@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj",
+      "projectUniqueName": "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj",
       "projectName": "APIRest.Domain",
-      "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Domain/APIRest.Domain.csproj",
+      "projectPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/APIRest.Domain.csproj",
       "packagesPath": "/Users/portalgrup/.nuget/packages/",
-      "outputPath": "/Users/portalgrup/Projects/APIRest/APIRest.Domain/obj/",
+      "outputPath": "/Users/portalgrup/Desktop/RestApi/APIRest.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/portalgrup/.nuget/NuGet/NuGet.Config"

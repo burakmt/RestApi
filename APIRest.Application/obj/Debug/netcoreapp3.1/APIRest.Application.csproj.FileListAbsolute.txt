@@ -1,0 +1,15 @@
+/Users/portalgrup/Projects/APIRest/APIRest.Application/bin/Debug/netcoreapp3.1/APIRest.Application.deps.json
+/Users/portalgrup/Projects/APIRest/APIRest.Application/bin/Debug/netcoreapp3.1/APIRest.Application.dll
+/Users/portalgrup/Projects/APIRest/APIRest.Application/bin/Debug/netcoreapp3.1/APIRest.Application.pdb
+/Users/portalgrup/Projects/APIRest/APIRest.Application/bin/Debug/netcoreapp3.1/APIRest.Application.Constants.dll
+/Users/portalgrup/Projects/APIRest/APIRest.Application/bin/Debug/netcoreapp3.1/APIRest.Domain.dll
+/Users/portalgrup/Projects/APIRest/APIRest.Application/bin/Debug/netcoreapp3.1/APIRest.Application.Constants.pdb
+/Users/portalgrup/Projects/APIRest/APIRest.Application/bin/Debug/netcoreapp3.1/APIRest.Domain.pdb
+/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/Debug/netcoreapp3.1/APIRest.Application.csproj.AssemblyReference.cache
+/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/Debug/netcoreapp3.1/APIRest.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/Debug/netcoreapp3.1/APIRest.Application.AssemblyInfoInputs.cache
+/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/Debug/netcoreapp3.1/APIRest.Application.AssemblyInfo.cs
+/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/Debug/netcoreapp3.1/APIRest.Application.csproj.CoreCompileInputs.cache
+/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/Debug/netcoreapp3.1/APIRest.Application.csproj.CopyComplete
+/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/Debug/netcoreapp3.1/APIRest.Application.dll
+/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/Debug/netcoreapp3.1/APIRest.Application.pdb

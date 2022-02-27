@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "APIRest.Application.Constants/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "APIRest.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/APIRest.Application.Constants.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APIRest.Application.Constants.dll": {}
+        }
+      },
+      "APIRest.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/APIRest.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/APIRest.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APIRest.Application.Constants/1.0.0": {
+      "type": "project",
+      "path": "../APIRest.Application.Constants/APIRest.Application.Constants.csproj",
+      "msbuildProject": "../APIRest.Application.Constants/APIRest.Application.Constants.csproj"
+    },
+    "APIRest.Domain/1.0.0": {
+      "type": "project",
+      "path": "../APIRest.Domain/APIRest.Domain.csproj",
+      "msbuildProject": "../APIRest.Domain/APIRest.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "APIRest.Application.Constants >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/portalgrup/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/portalgrup/Projects/APIRest/APIRest.Application/APIRest.Application.csproj",
+      "projectName": "APIRest.Application",
+      "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application/APIRest.Application.csproj",
+      "packagesPath": "/Users/portalgrup/.nuget/packages/",
+      "outputPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/portalgrup/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj": {
+              "projectPath": "/Users/portalgrup/Projects/APIRest/APIRest.Application.Constants/APIRest.Application.Constants.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

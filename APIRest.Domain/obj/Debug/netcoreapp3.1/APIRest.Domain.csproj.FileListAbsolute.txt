@@ -1,0 +1,9 @@
+/Users/portalgrup/Projects/APIRest/APIRest.Domain/bin/Debug/netcoreapp3.1/APIRest.Domain.deps.json
+/Users/portalgrup/Projects/APIRest/APIRest.Domain/bin/Debug/netcoreapp3.1/APIRest.Domain.dll
+/Users/portalgrup/Projects/APIRest/APIRest.Domain/bin/Debug/netcoreapp3.1/APIRest.Domain.pdb
+/Users/portalgrup/Projects/APIRest/APIRest.Domain/obj/Debug/netcoreapp3.1/APIRest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/portalgrup/Projects/APIRest/APIRest.Domain/obj/Debug/netcoreapp3.1/APIRest.Domain.AssemblyInfoInputs.cache
+/Users/portalgrup/Projects/APIRest/APIRest.Domain/obj/Debug/netcoreapp3.1/APIRest.Domain.AssemblyInfo.cs
+/Users/portalgrup/Projects/APIRest/APIRest.Domain/obj/Debug/netcoreapp3.1/APIRest.Domain.csproj.CoreCompileInputs.cache
+/Users/portalgrup/Projects/APIRest/APIRest.Domain/obj/Debug/netcoreapp3.1/APIRest.Domain.dll
+/Users/portalgrup/Projects/APIRest/APIRest.Domain/obj/Debug/netcoreapp3.1/APIRest.Domain.pdb

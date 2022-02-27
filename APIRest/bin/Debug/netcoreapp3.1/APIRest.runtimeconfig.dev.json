@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/portalgrup/.dotnet/store/|arch|/|tfm|",
+      "/Users/portalgrup/.nuget/packages"
+    ]
+  }
+}

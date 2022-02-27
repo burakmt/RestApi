@@ -8,6 +8,8 @@ Proje toplam 4 katmandan oluşmaktadır.
 - APIRest.Application.Constant
 - APIRest.Domain
 
+Projeye ait UML Diagram => https://raw.githubusercontent.com/burakmt/RestApi/main/APIRest.png
+
 Repository indirildikten sonra VS IDE üzerinden APIRest.sln açılıp herhangi bir ayar yapılmadan direkt olarak başlatılabilir.
 
 ------------
